@@ -22,7 +22,7 @@ class Aashiq:
         self.name        = "Aashiq Rasool Sathakathullah"
         self.alias       = "det0x-0"
         self.location    = "Dindigul, Tamil Nadu 🇮🇳"
-        self.education   = "B.E. CSE @ NPR College of Engineering & Technology (CGPA: 9.1)"
+        self.education   = "B.E. CSE @ Anna University (CGPA: 9.1)"
         self.roles       = ["ML Engineer 🤖", "Security Researcher 🔐", "ACM VP ⚡"]
         self.currently   = ["ML-based Vulnerability Prediction", "Real-time ASL-to-Voice System"]
         self.learning    = ["LLM Fine-tuning", "Edge AI Deployment", "5G + IoT Systems"]
